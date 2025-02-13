@@ -6,8 +6,8 @@ class Solution {
         pq.add((long)num);
        }
        while(pq.size()>1 && pq.peek()<k){
-        long fm = pq.remove();
-        long sm = pq.remove();
+        long fm = pq.poll();
+        long sm = pq.poll();
         pq.add(fm*2+sm);
         cnt++;
         
