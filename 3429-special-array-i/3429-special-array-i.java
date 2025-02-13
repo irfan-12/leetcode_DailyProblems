@@ -1,12 +1,10 @@
 class Solution {
     public boolean isArraySpecial(int[] nums) {
-        int cnt = 0,n=nums.length;
-        if(n<2)
-        return true;
+        int n=nums.length;
         for(int i=1;i<n;i++){
-            if((nums[i-1]%2==0 && nums[i]%2!=0) || (nums[i-1]%2!=0 && nums[i]%2==0))
-            cnt++;
+            if(nums[i-1]%2 == nums[i]%2)
+            return false;
         }
-        return cnt == n-1 ? true:false;
+        return true;
     }
 }
