@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Tree
 |  |
 | ------- |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 <!---LeetCode Topics End-->
