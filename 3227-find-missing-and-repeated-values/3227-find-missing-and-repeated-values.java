@@ -1,21 +1,36 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         int n = grid.length;
-        int size = n * n;
-        int[] freq = new int[size + 1];
-        int repeated = -1, missing = -1;
-
-        for (int[] row : grid) {
-            for (int num : row) {
-                freq[num]++;
+        TreeMap<Integer,Integer> tp = new TreeMap<>();
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                tp.put(grid[i][j],tp.getOrDefault(grid[i][j],0)+1);
             }
         }
-
-        for (int num = 1; num <= size; num++) {
-            if (freq[num] == 2) repeated = num;
-            if (freq[num] == 0) missing = num;
+        int c = 1;
+        int arr[] = new int[2];
+        boolean flag = false;
+        for(Map.Entry<Integer,Integer> num : tp.entrySet()){
+            int key = num.getKey();
+            int value = num.getValue();
+            if(key != c){
+                arr[1] = c;
+                flag = true;
+                break;
+            }
+            c++;
+            System.out.print("key: "+key+" value: "+value);
         }
-
-        return new int[]{repeated, missing};
+        if(!flag){
+            arr[1] = c;
+        }
+         for(Map.Entry<Integer,Integer> num : tp.entrySet()){
+            int key = num.getKey();
+            int value = num.getValue();
+            if(value==2){
+                arr[0] = key;
+            }
+         }
+        return arr;
     }
 }
