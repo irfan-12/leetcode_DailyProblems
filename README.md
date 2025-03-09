@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3483-alternating-groups-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
@@ -188,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
