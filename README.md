@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/1160-letter-tile-possibilities) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/0768-partition-labels) |
 | [1078-remove-outermost-parentheses](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/1160-letter-tile-possibilities) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/0768-partition-labels) |
 | [2551-apply-operations-to-an-array](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
