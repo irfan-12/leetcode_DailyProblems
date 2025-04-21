@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2280-count-good-triplets-in-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2249-count-the-hidden-sequences](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/irfan-12/leetcode_DailyProblems/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
